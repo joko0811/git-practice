@@ -1,4 +1,4 @@
 # practice
-v0.5
-branch: release
-second commit 
+v1.0
+branch: hotfix
+first commit 
