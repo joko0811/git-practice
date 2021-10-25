@@ -7,3 +7,5 @@ branch: feature
 second commit
 branch: release
 second commit 
+branch: hotfix
+first commit 
